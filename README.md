@@ -20,7 +20,7 @@
   <br>
   AI Trainer at Invisible Technologies (Google DeepMind Project)
   <br>
-  Software Developer at CITS | Focus on RAG & Automation
+  Software Developer at Mitel | Focus on RAG & Automation
   
 </div>
 
